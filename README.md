@@ -14,4 +14,5 @@ Uvedené je dostupné v nižšie uvedených formách:
 - Rozhranie na AI agenta - umožňuje generovať textové výstupy nad archívom
 
 Zo srdečným pozdravom,
+
 Rastislav Letenaj
